@@ -1,0 +1,22 @@
+{
+  "name": "sprite",
+  "version": "1.0.0",
+  "description": "## 起步",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharpgui/sprite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharpgui/sprite/issues"
+  },
+  "homepage": "https://github.com/sharpgui/sprite#readme"
+}
