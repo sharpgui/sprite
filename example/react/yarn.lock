@@ -4271,10 +4271,10 @@ levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-lilith-compiler@^1.2.4:
+lilith-compiler@^1.2.6:
   version "1.2.6"
-  resolved "https://registry.npm.taobao.org/lilith-compiler/download/lilith-compiler-1.2.6.tgz#2654d8eff779fbae64be33792376477a706d8350"
-  integrity sha1-JlTY7/d5+65kvjN5I3ZHenBtg1A=
+  resolved "https://registry.npmjs.org/lilith-compiler/-/lilith-compiler-1.2.6.tgz#2654d8eff779fbae64be33792376477a706d8350"
+  integrity sha512-/QZWzSQhChK6LVuZ+HdnX7OHseD0LzMdK2oKwaB70UoEaVfBnN2B1y0G2yJkvBgS6y0IDGAyKIezAhMK+QQKwA==
   dependencies:
     "@babel/cli" "^7.5.5"
     "@babel/core" "^7.5.5"
